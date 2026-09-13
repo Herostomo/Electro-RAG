@@ -1,0 +1,9 @@
+{
+  "processed": true,
+  "data_path": "data/datasheets",
+  "document_count": 14,
+  "text_chunk_count": 31,
+  "table_count": 33,
+  "kg_nodes": 13,
+  "kg_edges": 13
+}

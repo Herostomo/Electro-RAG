@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="page" attr.type="string"/>
+<key id="d1" for="edge" attr.name="source" attr.type="string"/>
+<key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="negative"/>
+<node id="3.0 V"/>
+<node id="32 V"/>
+<node id="single_and_split_supply_operation"/>
+<node id="internally_compensated"/>
+<node id="short_circuit_protected_outputs"/>
+<node id="true_differential_input_stage"/>
+<node id="LM258"/>
+<node id="LM358"/>
+<node id="LM358A"/>
+<node id="LM2904"/>
+<node id="LM2904A"/>
+<node id="LM2904V"/>
+<edge source="negative" target="3.0 V" id="0">
+  <data key="d0">minimum_supply_voltage</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="negative" target="32 V" id="0">
+  <data key="d0">maximum_supply_voltage</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="negative" target="single_and_split_supply_operation" id="0">
+  <data key="d0">supports</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="negative" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="negative" target="internally_compensated" id="1">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="negative" target="short_circuit_protected_outputs" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="negative" target="true_differential_input_stage" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="LM258" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="LM358" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="LM358A" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="LM2904" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="LM2904A" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+<edge source="LM2904V" target="internally_compensated" id="0">
+  <data key="d0">feature</data>
+  <data key="d1">data\datasheets\LM258.PDF</data>
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,2116 @@
+[
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 1,
+    "table_index": 0,
+    "rows": [
+      [
+        "",
+        "1 2"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\n3.0 V to VCC(max)\nVCC VCC\n1.5 V to VCC(max)\n1 1\n2 2\n1.5 V to VEE(max)\nVEE\nVEE/Gnd\nSingle Supply Split Supplies\nFigure 1.\nBias Circuitry\nCommon to Both\nOutput Amplifiers\nQ15\nVCC\nQ22\nQ16 Q14\nQ13\n40 k\nQ19\n5.0 pF Q12\nQ24\n25\nQ23\nQ18 Q20\nInputs\nQ11\nQ9\nQ17 Q21\nQ6 Q7 Q25\nQ2 Q5 Q1 2.4 k\nQ8 Q10\nQ3 Q4 Q26\n2.0 k\nVEE/Gnd\nFigure 2. Representative Schematic Diagram\n(One−Half of Circuit Shown)\nhttp://onsemi.com\n2",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 1,
+    "table_index": 1,
+    "rows": [
+      [
+        "",
+        "1 2"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\n3.0 V to VCC(max)\nVCC VCC\n1.5 V to VCC(max)\n1 1\n2 2\n1.5 V to VEE(max)\nVEE\nVEE/Gnd\nSingle Supply Split Supplies\nFigure 1.\nBias Circuitry\nCommon to Both\nOutput Amplifiers\nQ15\nVCC\nQ22\nQ16 Q14\nQ13\n40 k\nQ19\n5.0 pF Q12\nQ24\n25\nQ23\nQ18 Q20\nInputs\nQ11\nQ9\nQ17 Q21\nQ6 Q7 Q25\nQ2 Q5 Q1 2.4 k\nQ8 Q10\nQ3 Q4 Q26\n2.0 k\nVEE/Gnd\nFigure 2. Representative Schematic Diagram\n(One−Half of Circuit Shown)\nhttp://onsemi.com\n2",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 1,
+    "table_index": 2,
+    "rows": [
+      [
+        "",
+        "5.0 pF"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\n3.0 V to VCC(max)\nVCC VCC\n1.5 V to VCC(max)\n1 1\n2 2\n1.5 V to VEE(max)\nVEE\nVEE/Gnd\nSingle Supply Split Supplies\nFigure 1.\nBias Circuitry\nCommon to Both\nOutput Amplifiers\nQ15\nVCC\nQ22\nQ16 Q14\nQ13\n40 k\nQ19\n5.0 pF Q12\nQ24\n25\nQ23\nQ18 Q20\nInputs\nQ11\nQ9\nQ17 Q21\nQ6 Q7 Q25\nQ2 Q5 Q1 2.4 k\nQ8 Q10\nQ3 Q4 Q26\n2.0 k\nVEE/Gnd\nFigure 2. Representative Schematic Diagram\n(One−Half of Circuit Shown)\nhttp://onsemi.com\n2",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 2,
+    "table_index": 0,
+    "rows": [
+      [
+        "Rating",
+        "Symbol",
+        "Value",
+        "Unit"
+      ],
+      [
+        "Power Supply Voltages Single Supply Split Supplies",
+        "VCC VCC, VEE",
+        "32 ±16",
+        "Vdc"
+      ],
+      [
+        "Input Differential Voltage Range (Note 1)",
+        "VIDR",
+        "±32",
+        "Vdc"
+      ],
+      [
+        "Input Common Mode Voltage Range (Note 2)",
+        "VICR",
+        "−0.3 to 32",
+        "Vdc"
+      ],
+      [
+        "Output Short Circuit Duration",
+        "tSC",
+        "Continuous",
+        ""
+      ],
+      [
+        "Junction Temperature",
+        "TJ",
+        "150",
+        "°C"
+      ],
+      [
+        "Thermal Resistance, Junction−to−Air (Note 3) Case 846A Case 751 Case 626",
+        "R(cid:2)JA",
+        "238 212 161",
+        "°C/W"
+      ],
+      [
+        "Storage Temperature Range",
+        "Tstg",
+        "−65 to +150",
+        "°C"
+      ],
+      [
+        "ESD Protection at any Pin Human Body Model Machine Model",
+        "Vesd",
+        "2000 200",
+        "V"
+      ],
+      [
+        "Operating Ambient Temperature Range LM258 LM358, LM358A LM2904/LM2904A LM2904V, NCV2904 (Note 4) NCV2904V (Note 4)",
+        "TA",
+        "−25 to +85 0 to +70 −40 to +105 −40 to +125 −40 to +150",
+        "°C"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nMAXIMUM RATINGS (TA = +25°C, unless otherwise noted.)\nRating Symbol Value Unit\nPower Supply Voltages Vdc\nSingle Supply VCC 32\nSplit Supplies VCC, VEE ±16\nInput Differential Voltage Range (Note 1) VIDR ±32 Vdc\nInput Common Mode Voltage Range (Note 2) VICR −0.3 to 32 Vdc\nOutput Short Circuit Duration tSC Continuous\nJunction Temperature TJ 150 °C\nThermal Resistance, Junction−to−Air (Note 3) Case 846A R(cid:2)JA 238 °C/W\nCase 751 212\nCase 626 161\nStorage Temperature Range Tstg −65 to +150 °C\nESD Protection at any Pin Vesd V\nHuman Body Model 2000\nMachine Model 200\nOperating Ambient Temperature Range TA °C\nLM258 −25 to +85\nLM358, LM358A 0 to +70\nLM2904/LM2904A −40 to +105\nLM2904V, NCV2904 (Note 4) −40 to +125\nNCV2904V (Note 4) −40 to +150\nStresses exceeding Maximum Ratings may damage the device. Maximum Ratings are stress ratings only. Functional operation above the\nRecommended Operating Conditions is not implied. Extended exposure to stresses above the Recommended Operating Conditions may affect\ndevice reliability.\n1. Split Power Supplies.\n2. For supply voltages less than 32 V the absolute maximum input voltage is equal to the supply voltage.\n3. All R(cid:2)JA measurements made on evaluation board with 1 oz. copper traces of minimum pad size. All device outputs were active.\n4. NCV2904 and NCV2904V are qualified for automotive use.\nhttp://onsemi.com\n3",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 3,
+    "table_index": 0,
+    "rows": [
+      [
+        "Characteristic",
+        "Symbol",
+        "LM258",
+        "",
+        "",
+        "LM358",
+        "",
+        "",
+        "LM358A",
+        "",
+        "",
+        "Unit"
+      ],
+      [
+        "",
+        "",
+        "Min",
+        "Typ",
+        "Max",
+        "Min",
+        "Typ",
+        "Max",
+        "Min",
+        "Typ",
+        "Max",
+        ""
+      ],
+      [
+        "Input Offset Voltage VCC = 5.0 V to 30 V, VIC = 0 V to VCC −1.7 V, VO (cid:2) 1.4 V, RS = 0 (cid:3) TA = 25°C TA = Thigh (Note 5) TA = Tlow (Note 5)",
+        "VIO",
+        "− − −",
+        "2.0 − −",
+        "5.0 7.0 7.0",
+        "− − −",
+        "2.0 − −",
+        "7.0 9.0 9.0",
+        "− − −",
+        "2.0 − −",
+        "3.0 5.0 5.0",
+        "mV"
+      ],
+      [
+        "Average Temperature Coefficient of Input Offset Voltage TA = Thigh to Tlow (Note 5)",
+        "(cid:4)VIO/(cid:4)T",
+        "−",
+        "7.0",
+        "−",
+        "−",
+        "7.0",
+        "−",
+        "−",
+        "7.0",
+        "−",
+        "(cid:5)V/°C"
+      ],
+      [
+        "Input Offset Current TA = Thigh to Tlow (Note 5) Input Bias Current TA = Thigh to Tlow (Note 5)",
+        "IIO IIB",
+        "− − − −",
+        "3.0 − −45 −50",
+        "30 100 −150 −300",
+        "− − − −",
+        "5.0 − −45 −50",
+        "50 150 −250 −500",
+        "− − − −",
+        "5.0 − −45 −50",
+        "30 75 −100 −200",
+        "nA"
+      ],
+      [
+        "Average Temperature Coefficient of Input Offset Current TA = Thigh to Tlow (Note 5)",
+        "(cid:4)IIO/(cid:4)T",
+        "−",
+        "10",
+        "−",
+        "−",
+        "10",
+        "−",
+        "−",
+        "10",
+        "−",
+        "pA/°C"
+      ],
+      [
+        "Input Common Mode Voltage Range (Note 6), VCC = 30 V VCC = 30 V, TA = Thigh to Tlow",
+        "VICR",
+        "0 0",
+        "− −",
+        "28.3 28",
+        "0 0",
+        "− −",
+        "28.3 28",
+        "0 0",
+        "− −",
+        "28.5 28",
+        "V"
+      ],
+      [
+        "Differential Input Voltage Range",
+        "VIDR",
+        "−",
+        "−",
+        "VCC",
+        "−",
+        "−",
+        "VCC",
+        "−",
+        "−",
+        "VCC",
+        "V"
+      ],
+      [
+        "Large Signal Open Loop Voltage Gain RL = 2.0 k(cid:3), VCC = 15 V, For Large VO Swing, TA = Thigh to Tlow (Note 5)",
+        "AVOL",
+        "50 25",
+        "100 −",
+        "− −",
+        "25 15",
+        "100 −",
+        "− −",
+        "25 15",
+        "100 −",
+        "− −",
+        "V/mV"
+      ],
+      [
+        "Channel Separation 1.0 kHz ≤ f ≤ 20 kHz, Input Referenced",
+        "CS",
+        "−",
+        "−120",
+        "−",
+        "−",
+        "−120",
+        "−",
+        "−",
+        "−120",
+        "−",
+        "dB"
+      ],
+      [
+        "Common Mode Rejection RS ≤ 10 k(cid:3)",
+        "CMR",
+        "70",
+        "85",
+        "−",
+        "65",
+        "70",
+        "−",
+        "65",
+        "70",
+        "−",
+        "dB"
+      ],
+      [
+        "Power Supply Rejection",
+        "PSR",
+        "65",
+        "100",
+        "−",
+        "65",
+        "100",
+        "−",
+        "65",
+        "100",
+        "−",
+        "dB"
+      ],
+      [
+        "Output Voltage−High Limit TA = Thigh to Tlow (Note 5) VCC = 5.0 V, RL = 2.0 k(cid:3), TA = 25°C VCC = 30 V, RL = 2.0 k(cid:3) VCC = 30 V, RL = 10 k(cid:3)",
+        "VOH",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "V"
+      ],
+      [
+        "Output Voltage−Low Limit VCC = 5.0 V, RL = 10 k(cid:3), TA = Thigh to Tlow (Note 5)",
+        "VOL",
+        "−",
+        "5.0",
+        "20",
+        "−",
+        "5.0",
+        "20",
+        "−",
+        "5.0",
+        "20",
+        "mV"
+      ],
+      [
+        "Output Source Current VID = +1.0 V, VCC = 15 V TA = Thigh to Tlow (LM358A Only)",
+        "IO(cid:2)+",
+        "20",
+        "40",
+        "−",
+        "20",
+        "40",
+        "−",
+        "20 10",
+        "40 −",
+        "− −",
+        "mA"
+      ],
+      [
+        "Output Sink Current VID = −1.0 V, VCC = 15 V TA = Thigh to Tlow (LM358A Only) VID = −1.0 V, VO = 200 mV",
+        "IO(cid:2)−",
+        "10 12",
+        "20 50",
+        "− −",
+        "10 12",
+        "20 50",
+        "− −",
+        "10 5.0 12",
+        "20 − 50",
+        "− − −",
+        "mA mA (cid:5)A"
+      ],
+      [
+        "Output Short Circuit to Ground (Note 7)",
+        "ISC",
+        "−",
+        "40",
+        "60",
+        "−",
+        "40",
+        "60",
+        "−",
+        "40",
+        "60",
+        "mA"
+      ],
+      [
+        "Power Supply Current (Total Device) TA = Thigh to Tlow (Note 5) VCC = 30 V, VO = 0 V, RL = ∞ VCC = 5 V, VO = 0 V, RL = ∞",
+        "ICC",
+        "− −",
+        "1.5 0.7",
+        "3.0 1.2",
+        "− −",
+        "1.5 0.7",
+        "3.0 1.2",
+        "− −",
+        "1.5 0.7",
+        "2.0 1.2",
+        "mA"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nELECTRICAL CHARACTERISTICS (VCC = 5.0 V, VEE = GND, TA = 25°C, unless otherwise noted.)\nLM258 LM358 LM358A\nCharacteristic Symbol Min Typ Max Min Typ Max Min Typ Max Unit\nInput Offset Voltage VIO mV\nVCC = 5.0 V to 30 V, VIC = 0 V to VCC −1.7 V,\nVO (cid:2) 1.4 V, RS = 0 (cid:3)\nTA = 25°C − 2.0 5.0 − 2.0 7.0 − 2.0 3.0\nTA = Thigh (Note 5) − − 7.0 − − 9.0 − − 5.0\nTA = Tlow (Note 5) − − 7.0 − − 9.0 − − 5.0\nAverage Temperature Coefficient of Input Offset (cid:4)VIO/(cid:4)T − 7.0 − − 7.0 − − 7.0 − (cid:5)V/°C\nVoltage\nTA = Thigh to Tlow (Note 5)\nInput Offset Current IIO − 3.0 30 − 5.0 50 − 5.0 30 nA\nTA = Thigh to Tlow (Note 5) − − 100 − − 150 − − 75\nInput Bias Current IIB − −45 −150 − −45 −250 − −45 −100\nTA = Thigh to Tlow (Note 5) − −50 −300 − −50 −500 − −50 −200\nAverage Temperature Coefficient of Input Offset (cid:4)IIO/(cid:4)T − 10 − − 10 − − 10 − pA/°C\nCurrent\nTA = Thigh to Tlow (Note 5)\nInput Common Mode Voltage Range (Note 6), VICR 0 − 28.3 0 − 28.3 0 − 28.5 V\nVCC = 30 V\nVCC = 30 V, TA = Thigh to Tlow 0 − 28 0 − 28 0 − 28\nDifferential Input Voltage Range VIDR − − VCC − − VCC − − VCC V\nLarge Signal Open Loop Voltage Gain AVOL V/mV\nRL = 2.0 k(cid:3), VCC = 15 V, For Large VO Swing, 50 100 − 25 100 − 25 100 −\nTA = Thigh to Tlow (Note 5) 25 − − 15 − − 15 − −\nChannel Separation CS − −120 − − −120 − − −120 − dB\n1.0 kHz ≤ f ≤ 20 kHz, Input Referenced\nCommon Mode Rejection CMR 70 85 − 65 70 − 65 70 − dB\nRS ≤ 10 k(cid:3)\nPower Supply Rejection PSR 65 100 − 65 100 − 65 100 − dB\nOutput Voltage−High Limit VOH V\nTA = Thigh to Tlow (Note 5)\nVCC = 5.0 V, RL = 2.0 k(cid:3), TA = 25°C 3.3 3.5 − 3.3 3.5 − 3.3 3.5 −\nVCC = 30 V, RL = 2.0 k(cid:3) 26 − − 26 − − 26 − −\nVCC = 30 V, RL = 10 k(cid:3) 27 28 − 27 28 − 27 28 −\nOutput Voltage−Low Limit VOL − 5.0 20 − 5.0 20 − 5.0 20 mV\nVCC = 5.0 V, RL = 10 k(cid:3),\nTA = Thigh to Tlow (Note 5)\nOutput Source Current IO(cid:2)+ mA\nVID = +1.0 V, VCC = 15 V 20 40 − 20 40 − 20 40 −\nTA = Thigh to Tlow (LM358A Only) 10 − −\nOutput Sink Current IO(cid:2)−\nVID = −1.0 V, VCC = 15 V 10 20 − 10 20 − 10 20 − mA\nTA = Thigh to Tlow (LM358A Only) 5.0 − − mA\nVID = −1.0 V, VO = 200 mV 12 50 − 12 50 − 12 50 − (cid:5)A\nOutput Short Circuit to Ground (Note 7) ISC − 40 60 − 40 60 − 40 60 mA\nPower Supply Current (Total Device) ICC mA\nTA = Thigh to Tlow (Note 5)\nVCC = 30 V, VO = 0 V, RL = ∞ − 1.5 3.0 − 1.5 3.0 − 1.5 2.0\nVCC = 5 V, VO = 0 V, RL = ∞ − 0.7 1.2 − 0.7 1.2 − 0.7 1.2\n5. LM258: Tlow = −25°C, Thigh = +85°C LM358, LM358A: Tlow = 0°C, Thigh = +70°C\nLM2904/LM2904A: Tlow = −40°C, Thigh = +105°C LM2904V & NCV2904: Tlow = −40°C, Thigh = +125°C\nNCV2904 and NCV2904V are qualified for automotive use. NCV2904V: Tlow = −40°C, Thigh = +150°C\n6. The input common mode voltage or either input signal voltage should not be allowed to go negative by more than 0.3 V. The upper end of\nthe common mode voltage range is VCC − 1.7 V.\n7. Short circuits from the output to VCC can cause excessive heating and eventual destruction. Destructive dissipation can result from\nsimultaneous shorts on all amplifiers.\nhttp://onsemi.com\n4",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Tlow",
+      "negative"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 4,
+    "table_index": 0,
+    "rows": [
+      [
+        "Characteristic",
+        "Symbol",
+        "LM2904",
+        "",
+        "",
+        "LM2904A",
+        "",
+        "",
+        "LM2904V, NCV2904 NCV2904V",
+        "",
+        "",
+        "Unit"
+      ],
+      [
+        "",
+        "",
+        "Min",
+        "Typ",
+        "Max",
+        "Min",
+        "Typ",
+        "Max",
+        "Min",
+        "Typ",
+        "Max",
+        ""
+      ],
+      [
+        "Input Offset Voltage VCC = 5.0 V to 30 V, VIC = 0 V to VCC −1.7 V, VO (cid:2) 1.4 V, RS = 0 (cid:3) TA = 25°C TA = Thigh (Note 8) TA = Tlow (Note 8)",
+        "VIO",
+        "− − −",
+        "2.0 − −",
+        "7.0 10 10",
+        "− − −",
+        "2.0 − −",
+        "7.0 10 10",
+        "− − −",
+        "− − −",
+        "7.0 13 10",
+        "mV"
+      ],
+      [
+        "Average Temperature Coefficient of Input Offset Voltage TA = Thigh to Tlow (Note 8)",
+        "(cid:4)VIO/(cid:4)T",
+        "−",
+        "7.0",
+        "−",
+        "−",
+        "7.0",
+        "−",
+        "−",
+        "7.0",
+        "−",
+        "(cid:5)V/°C"
+      ],
+      [
+        "Input Offset Current TA = Thigh to Tlow (Note 8) Input Bias Current TA = Thigh to Tlow (Note 8)",
+        "IIO IIB",
+        "− − − −",
+        "5.0 45 −45 −50",
+        "50 200 −250 −500",
+        "− − − −",
+        "5.0 45 −45 −50",
+        "50 200 −100 −250",
+        "− − − −",
+        "5.0 45 −45 −50",
+        "50 200 −250 −500",
+        "nA"
+      ],
+      [
+        "Average Temperature Coefficient of Input Offset Current TA = Thigh to Tlow (Note 8)",
+        "(cid:4)IIO/(cid:4)T",
+        "−",
+        "10",
+        "−",
+        "−",
+        "10",
+        "−",
+        "−",
+        "10",
+        "−",
+        "pA/°C"
+      ],
+      [
+        "Input Common Mode Voltage Range (Note 9), VCC = 30 V VCC = 30 V, TA = Thigh to Tlow",
+        "VICR",
+        "0 0",
+        "− −",
+        "28.3 28",
+        "0 0",
+        "− −",
+        "28.3 28",
+        "0 0",
+        "− −",
+        "28.3 28",
+        "V"
+      ],
+      [
+        "Differential Input Voltage Range",
+        "VIDR",
+        "−",
+        "−",
+        "VCC",
+        "−",
+        "−",
+        "VCC",
+        "−",
+        "−",
+        "VCC",
+        "V"
+      ],
+      [
+        "Large Signal Open Loop Voltage Gain RL = 2.0 k(cid:3), VCC = 15 V, For Large VO Swing, TA = Thigh to Tlow (Note 8)",
+        "AVOL",
+        "25 15",
+        "100 −",
+        "− −",
+        "25 15",
+        "100 −",
+        "− −",
+        "25 15",
+        "100 −",
+        "− −",
+        "V/mV"
+      ],
+      [
+        "Channel Separation 1.0 kHz ≤ f ≤ 20 kHz, Input Referenced",
+        "CS",
+        "−",
+        "−120",
+        "−",
+        "−",
+        "−120",
+        "−",
+        "−",
+        "−120",
+        "−",
+        "dB"
+      ],
+      [
+        "Common Mode Rejection RS ≤ 10 k(cid:3)",
+        "CMR",
+        "50",
+        "70",
+        "−",
+        "50",
+        "70",
+        "−",
+        "50",
+        "70",
+        "−",
+        "dB"
+      ],
+      [
+        "Power Supply Rejection",
+        "PSR",
+        "50",
+        "100",
+        "−",
+        "50",
+        "100",
+        "−",
+        "50",
+        "100",
+        "−",
+        "dB"
+      ],
+      [
+        "Output Voltage−High Limit TA = Thigh to Tlow (Note 8) VCC = 5.0 V, RL = 2.0 k(cid:3), TA = 25°C VCC = 30 V, RL = 2.0 k(cid:3) VCC = 30 V, RL = 10 k(cid:3)",
+        "VOH",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "3.3 26 27",
+        "3.5 − 28",
+        "− − −",
+        "V"
+      ],
+      [
+        "Output Voltage−Low Limit VCC = 5.0 V, RL = 10 k(cid:3), TA = Thigh to Tlow (Note 8)",
+        "VOL",
+        "−",
+        "5.0",
+        "20",
+        "−",
+        "5.0",
+        "20",
+        "−",
+        "5.0",
+        "20",
+        "mV"
+      ],
+      [
+        "Output Source Current VID = +1.0 V, VCC = 15 V",
+        "IO(cid:2)+",
+        "20",
+        "40",
+        "−",
+        "20",
+        "40",
+        "−",
+        "20",
+        "40",
+        "−",
+        "mA"
+      ],
+      [
+        "Output Sink Current VID = −1.0 V, VCC = 15 V VID = −1.0 V, VO = 200 mV",
+        "IO(cid:2)−",
+        "10 −",
+        "20 −",
+        "− −",
+        "10 −",
+        "20 −",
+        "− −",
+        "10 −",
+        "20 −",
+        "− −",
+        "mA (cid:5)A"
+      ],
+      [
+        "Output Short Circuit to Ground (Note 10)",
+        "ISC",
+        "−",
+        "40",
+        "60",
+        "−",
+        "40",
+        "60",
+        "−",
+        "40",
+        "60",
+        "mA"
+      ],
+      [
+        "Power Supply Current (Total Device) TA = Thigh to Tlow (Note 8) VCC = 30 V, VO = 0 V, RL = ∞ VCC = 5 V, VO = 0 V, RL = ∞",
+        "ICC",
+        "− −",
+        "1.5 0.7",
+        "3.0 1.2",
+        "− −",
+        "1.5 0.7",
+        "3.0 1.2",
+        "− −",
+        "1.5 0.7",
+        "3.0 1.2",
+        "mA"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nELECTRICAL CHARACTERISTICS (VCC = 5.0 V, VEE = Gnd, TA = 25°C, unless otherwise noted.)\nLM2904V, NCV2904\nLM2904 LM2904A NCV2904V\nCharacteristic Symbol Min Typ Max Min Typ Max Min Typ Max Unit\nInput Offset Voltage VIO mV\nVCC = 5.0 V to 30 V, VIC = 0 V to VCC −1.7 V,\nVO (cid:2) 1.4 V, RS = 0 (cid:3)\nTA = 25°C − 2.0 7.0 − 2.0 7.0 − − 7.0\nTA = Thigh (Note 8) − − 10 − − 10 − − 13\nTA = Tlow (Note 8) − − 10 − − 10 − − 10\nAverage Temperature Coefficient of Input Offset (cid:4)VIO/(cid:4)T − 7.0 − − 7.0 − − 7.0 − (cid:5)V/°C\nVoltage\nTA = Thigh to Tlow (Note 8)\nInput Offset Current IIO − 5.0 50 − 5.0 50 − 5.0 50 nA\nTA = Thigh to Tlow (Note 8) − 45 200 − 45 200 − 45 200\nInput Bias Current IIB − −45 −250 − −45 −100 − −45 −250\nTA = Thigh to Tlow (Note 8) − −50 −500 − −50 −250 − −50 −500\nAverage Temperature Coefficient of Input Offset (cid:4)IIO/(cid:4)T − 10 − − 10 − − 10 − pA/°C\nCurrent\nTA = Thigh to Tlow (Note 8)\nInput Common Mode Voltage Range (Note 9), VICR 0 − 28.3 0 − 28.3 0 − 28.3 V\nVCC = 30 V\nVCC = 30 V, TA = Thigh to Tlow 0 − 28 0 − 28 0 − 28\nDifferential Input Voltage Range VIDR − − VCC − − VCC − − VCC V\nLarge Signal Open Loop Voltage Gain AVOL V/mV\nRL = 2.0 k(cid:3), VCC = 15 V, For Large VO Swing, 25 100 − 25 100 − 25 100 −\nTA = Thigh to Tlow (Note 8) 15 − − 15 − − 15 − −\nChannel Separation CS − −120 − − −120 − − −120 − dB\n1.0 kHz ≤ f ≤ 20 kHz, Input Referenced\nCommon Mode Rejection CMR 50 70 − 50 70 − 50 70 − dB\nRS ≤ 10 k(cid:3)\nPower Supply Rejection PSR 50 100 − 50 100 − 50 100 − dB\nOutput Voltage−High Limit VOH V\nTA = Thigh to Tlow (Note 8)\nVCC = 5.0 V, RL = 2.0 k(cid:3), TA = 25°C 3.3 3.5 − 3.3 3.5 − 3.3 3.5 −\nVCC = 30 V, RL = 2.0 k(cid:3) 26 − − 26 − − 26 − −\nVCC = 30 V, RL = 10 k(cid:3) 27 28 − 27 28 − 27 28 −\nOutput Voltage−Low Limit VOL − 5.0 20 − 5.0 20 − 5.0 20 mV\nVCC = 5.0 V, RL = 10 k(cid:3),\nTA = Thigh to Tlow (Note 8)\nOutput Source Current IO(cid:2)+ 20 40 − 20 40 − 20 40 − mA\nVID = +1.0 V, VCC = 15 V\nOutput Sink Current IO(cid:2)−\nVID = −1.0 V, VCC = 15 V 10 20 − 10 20 − 10 20 − mA\nVID = −1.0 V, VO = 200 mV − − − − − − − − − (cid:5)A\nOutput Short Circuit to Ground (Note 10) ISC − 40 60 − 40 60 − 40 60 mA\nPower Supply Current (Total Device) ICC mA\nTA = Thigh to Tlow (Note 8)\nVCC = 30 V, VO = 0 V, RL = ∞ − 1.5 3.0 − 1.5 3.0 − 1.5 3.0\nVCC = 5 V, VO = 0 V, RL = ∞ − 0.7 1.2 − 0.7 1.2 − 0.7 1.2\n8. LM258: Tlow = −25°C, Thigh = +85°C LM358, LM358A: Tlow = 0°C, Thigh = +70°C\nLM2904/LM2904A: Tlow = −40°C, Thigh = +105°C LM2904V & NCV2904: Tlow = −40°C, Thigh = +125°C\nNCV2904 and NCV2904V are qualified for automotive use. NCV2904V: Tlow = −40°C, Thigh = +150°C\n9. The input common mode voltage or either input signal voltage should not be allowed to go negative by more than 0.3 V. The upper end of\nthe common mode voltage range is VCC − 1.7 V.\n10.Short circuits from the output to VCC can cause excessive heating and eventual destruction. Destructive dissipation can result from\nsimultaneous shorts on all amplifiers.\nhttp://onsemi.com\n5",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Tlow",
+      "negative"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 5,
+    "table_index": 0,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "VCC RL =",
+        "",
+        "",
+        "c"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "VCC RL =",
+        "= 15 Vd 2.0 k(cid:3)",
+        "c"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TA =",
+        "TA =",
+        "25°C",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nCIRCUIT DESCRIPTION\nThe LM358 series is made using two internally\ncompensated, two−stage operational amplifiers. The first\nstage of each consists of differential input devices Q20 and\nQ18 with input buffer transistors Q21 and Q17 and the\ndifferential to single ended converter Q3 and Q4. The first\nstage performs not only the first stage gain function but also\nperforms the level shifting and transconductance reduction\nfunctions. By reducing the transconductance, a smaller\ncompensation capacitor (only 5.0 pF) can be employed, thus\nsaving chip area. The transconductance reduction is\naccomplished by splitting the collectors of Q20 and Q18.\nAnother feature of this input stage is that the input common\n5.0 (cid:5)s/DIV\nmode range can include the negative supply or ground, in\nsingle supply operation, without saturating either the input Figure 3. Large Signal Voltage\ndevices or the differential to single−ended converter. The Follower Response\nsecond stage consists of a standard current source load\namplifier stage.\nEach amplifier is biased from an internal−voltage\nregulator which has a low temperature coefficient thus\ngiving each amplifier good temperature characteristics as\nwell as excellent power supply rejection.\nhttp://onsemi.com\n6\nVID/V\n0.1\nVCC = 15 Vdc\nRL = 2.0 k(cid:3)\nTA = 25°C\n)V(\nEGATLOV\nTUPNI\n,\nV I\n)Bd(\nNIAG\nEGATLOV\nPOOL\nNEPO\n,LOVA\n20 120\n18 VCC = 15 V\n16 100 T V A E E = = 2 5 G ° n C d\n14 80\n12\n60\n10 Negative\n40\n8.0\nPositive\n6.0 20\n4.0\n0\n2.0\n0 -20\n0 2.0 4.0 6.0 8.0 10 12 14 16 18 20 1.0 10 100 1.0 k 10 k 100 k 1.0 M\nVCC/VEE, POWER SUPPLY VOLTAGES (V) f, FREQUENCY (Hz)\nFigure 4. Input Voltage Range Figure 5. Large−Signal Open Loop Voltage Gain",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "negative",
+      "NEPO"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 5,
+    "table_index": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "Neg",
+        "ative",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Po",
+        "",
+        "sitive",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Po",
+        "sitive",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nCIRCUIT DESCRIPTION\nThe LM358 series is made using two internally\ncompensated, two−stage operational amplifiers. The first\nstage of each consists of differential input devices Q20 and\nQ18 with input buffer transistors Q21 and Q17 and the\ndifferential to single ended converter Q3 and Q4. The first\nstage performs not only the first stage gain function but also\nperforms the level shifting and transconductance reduction\nfunctions. By reducing the transconductance, a smaller\ncompensation capacitor (only 5.0 pF) can be employed, thus\nsaving chip area. The transconductance reduction is\naccomplished by splitting the collectors of Q20 and Q18.\nAnother feature of this input stage is that the input common\n5.0 (cid:5)s/DIV\nmode range can include the negative supply or ground, in\nsingle supply operation, without saturating either the input Figure 3. Large Signal Voltage\ndevices or the differential to single−ended converter. The Follower Response\nsecond stage consists of a standard current source load\namplifier stage.\nEach amplifier is biased from an internal−voltage\nregulator which has a low temperature coefficient thus\ngiving each amplifier good temperature characteristics as\nwell as excellent power supply rejection.\nhttp://onsemi.com\n6\nVID/V\n0.1\nVCC = 15 Vdc\nRL = 2.0 k(cid:3)\nTA = 25°C\n)V(\nEGATLOV\nTUPNI\n,\nV I\n)Bd(\nNIAG\nEGATLOV\nPOOL\nNEPO\n,LOVA\n20 120\n18 VCC = 15 V\n16 100 T V A E E = = 2 5 G ° n C d\n14 80\n12\n60\n10 Negative\n40\n8.0\nPositive\n6.0 20\n4.0\n0\n2.0\n0 -20\n0 2.0 4.0 6.0 8.0 10 12 14 16 18 20 1.0 10 100 1.0 k 10 k 100 k 1.0 M\nVCC/VEE, POWER SUPPLY VOLTAGES (V) f, FREQUENCY (Hz)\nFigure 4. Input Voltage Range Figure 5. Large−Signal Open Loop Voltage Gain",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "negative",
+      "NEPO"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 5,
+    "table_index": 2,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "V",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CC =",
+        "15",
+        "V",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "V T",
+        "EE = A = 2",
+        "Gn 5°C",
+        "d",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nCIRCUIT DESCRIPTION\nThe LM358 series is made using two internally\ncompensated, two−stage operational amplifiers. The first\nstage of each consists of differential input devices Q20 and\nQ18 with input buffer transistors Q21 and Q17 and the\ndifferential to single ended converter Q3 and Q4. The first\nstage performs not only the first stage gain function but also\nperforms the level shifting and transconductance reduction\nfunctions. By reducing the transconductance, a smaller\ncompensation capacitor (only 5.0 pF) can be employed, thus\nsaving chip area. The transconductance reduction is\naccomplished by splitting the collectors of Q20 and Q18.\nAnother feature of this input stage is that the input common\n5.0 (cid:5)s/DIV\nmode range can include the negative supply or ground, in\nsingle supply operation, without saturating either the input Figure 3. Large Signal Voltage\ndevices or the differential to single−ended converter. The Follower Response\nsecond stage consists of a standard current source load\namplifier stage.\nEach amplifier is biased from an internal−voltage\nregulator which has a low temperature coefficient thus\ngiving each amplifier good temperature characteristics as\nwell as excellent power supply rejection.\nhttp://onsemi.com\n6\nVID/V\n0.1\nVCC = 15 Vdc\nRL = 2.0 k(cid:3)\nTA = 25°C\n)V(\nEGATLOV\nTUPNI\n,\nV I\n)Bd(\nNIAG\nEGATLOV\nPOOL\nNEPO\n,LOVA\n20 120\n18 VCC = 15 V\n16 100 T V A E E = = 2 5 G ° n C d\n14 80\n12\n60\n10 Negative\n40\n8.0\nPositive\n6.0 20\n4.0\n0\n2.0\n0 -20\n0 2.0 4.0 6.0 8.0 10 12 14 16 18 20 1.0 10 100 1.0 k 10 k 100 k 1.0 M\nVCC/VEE, POWER SUPPLY VOLTAGES (V) f, FREQUENCY (Hz)\nFigure 4. Input Voltage Range Figure 5. Large−Signal Open Loop Voltage Gain",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "negative",
+      "NEPO"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 6,
+    "table_index": 0,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RL = 2.0",
+        "k(cid:3)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "VCC = 1 VEE = G",
+        "5 V nd",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Gain = - RI = 1.0",
+        "100 k(cid:3)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RF = 10",
+        "0 k",
+        "(cid:3)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nhttp://onsemi.com\n7\n)ppV( EGNAR\nEGATLOV\nTUPTUO\n,ROV\n)Vm(\nEGATLOV\nTUPTUO\n,OV\n14 550\n12 500\n450 10\n400\n8.0\n350\n6.0\n300\n4.0\n250\n2.0\n200\n0 0\n1.0 10 100 1000 0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0\nf, FREQUENCY (kHz) t, TIME (ms)\nFigure 6. Large−Signal Frequency Response Figure 7. Small Signal Voltage Follower\nPulse Response (Noninverting)\n2.4\n2.1\n90\n1.8\n1.5\n1.2\n0.9 80\n0.6\n0.3\n0 70\n0 5.0 10 15 20 25 30 35 0 2.0 4.0 6.0 8.0 10 12 14 16 18 20\nVCC, POWER SUPPLY VOLTAGE (V) VCC, POWER SUPPLY VOLTAGE (V)\nFigure 8. Power Supply Current versus Figure 9. Input Bias Current versus\nPower Supply Voltage Supply Voltage\n)Am(\nTNERRUC\nYLPPUS\nREWOP\n,\nI\nCC\n)An(\nTNERRUC\nSAIB\nTUPNI\n, B I I\nRL = 2.0 k(cid:3) V V C EE C = = G 30 n d V VCC = 15 V Input TA = 25°C\nVEE = Gnd CL = 50 pF Gain = -100\nRI = 1.0 k(cid:3)\nRF = 100 k(cid:3) Output\nTA = 25°C\nRL = (cid:3)",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 6,
+    "table_index": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "30 V Gnd",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "VCC = V =",
+        "30 V Gnd",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Inp",
+        "",
+        "ut",
+        "",
+        "",
+        "",
+        "",
+        "EE TA = 2",
+        "5°C",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Inp",
+        "ut",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CL = 5",
+        "0 pF",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Outp",
+        "",
+        "ut",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Outp",
+        "ut",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nhttp://onsemi.com\n7\n)ppV( EGNAR\nEGATLOV\nTUPTUO\n,ROV\n)Vm(\nEGATLOV\nTUPTUO\n,OV\n14 550\n12 500\n450 10\n400\n8.0\n350\n6.0\n300\n4.0\n250\n2.0\n200\n0 0\n1.0 10 100 1000 0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0\nf, FREQUENCY (kHz) t, TIME (ms)\nFigure 6. Large−Signal Frequency Response Figure 7. Small Signal Voltage Follower\nPulse Response (Noninverting)\n2.4\n2.1\n90\n1.8\n1.5\n1.2\n0.9 80\n0.6\n0.3\n0 70\n0 5.0 10 15 20 25 30 35 0 2.0 4.0 6.0 8.0 10 12 14 16 18 20\nVCC, POWER SUPPLY VOLTAGE (V) VCC, POWER SUPPLY VOLTAGE (V)\nFigure 8. Power Supply Current versus Figure 9. Input Bias Current versus\nPower Supply Voltage Supply Voltage\n)Am(\nTNERRUC\nYLPPUS\nREWOP\n,\nI\nCC\n)An(\nTNERRUC\nSAIB\nTUPNI\n, B I I\nRL = 2.0 k(cid:3) V V C EE C = = G 30 n d V VCC = 15 V Input TA = 25°C\nVEE = Gnd CL = 50 pF Gain = -100\nRI = 1.0 k(cid:3)\nRF = 100 k(cid:3) Output\nTA = 25°C\nRL = (cid:3)",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 6,
+    "table_index": 2,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "°",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TA RL",
+        "= 25 = (cid:3)",
+        "C",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nhttp://onsemi.com\n7\n)ppV( EGNAR\nEGATLOV\nTUPTUO\n,ROV\n)Vm(\nEGATLOV\nTUPTUO\n,OV\n14 550\n12 500\n450 10\n400\n8.0\n350\n6.0\n300\n4.0\n250\n2.0\n200\n0 0\n1.0 10 100 1000 0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0\nf, FREQUENCY (kHz) t, TIME (ms)\nFigure 6. Large−Signal Frequency Response Figure 7. Small Signal Voltage Follower\nPulse Response (Noninverting)\n2.4\n2.1\n90\n1.8\n1.5\n1.2\n0.9 80\n0.6\n0.3\n0 70\n0 5.0 10 15 20 25 30 35 0 2.0 4.0 6.0 8.0 10 12 14 16 18 20\nVCC, POWER SUPPLY VOLTAGE (V) VCC, POWER SUPPLY VOLTAGE (V)\nFigure 8. Power Supply Current versus Figure 9. Input Bias Current versus\nPower Supply Voltage Supply Voltage\n)Am(\nTNERRUC\nYLPPUS\nREWOP\n,\nI\nCC\n)An(\nTNERRUC\nSAIB\nTUPNI\n, B I I\nRL = 2.0 k(cid:3) V V C EE C = = G 30 n d V VCC = 15 V Input TA = 25°C\nVEE = Gnd CL = 50 pF Gain = -100\nRI = 1.0 k(cid:3)\nRF = 100 k(cid:3) Output\nTA = 25°C\nRL = (cid:3)",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 9,
+    "table_index": 0,
+    "rows": [
+      [
+        "Device",
+        "Operating Temperature Range",
+        "Package",
+        "Shipping†"
+      ],
+      [
+        "LM358ADR2G",
+        "0°Cto +70°C",
+        "SOIC−8 (Pb−Free)",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM358DG",
+        "",
+        "",
+        "98 Units / Rail"
+      ],
+      [
+        "LM358DR2G",
+        "",
+        "",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM358DMR2G",
+        "",
+        "Micro8 (Pb−Free)",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "LM358NG",
+        "",
+        "PDIP−8 (Pb−Free)",
+        "50 Units / Rail"
+      ],
+      [
+        "LM258DG",
+        "−25°Cto +85°C",
+        "SOIC−8 (Pb−Free)",
+        "98 Units / Rail"
+      ],
+      [
+        "LM258DR2G",
+        "",
+        "",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM258DMR2G",
+        "",
+        "Micro8 (Pb−Free)",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "LM258NG",
+        "",
+        "PDIP−8 (Pb−Free)",
+        "50 Units / Rail"
+      ],
+      [
+        "LM2904DG",
+        "−40°Cto +105°C",
+        "SOIC−8 (Pb−Free)",
+        "98 Units / Rail"
+      ],
+      [
+        "LM2904DR2G",
+        "",
+        "",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM2904DMR2G",
+        "",
+        "Micro8 (Pb−Free)",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM2904NG",
+        "",
+        "PDIP−8 (Pb−Free)",
+        "50 Units / Rail"
+      ],
+      [
+        "LM2904ADMG",
+        "",
+        "Micro8 (Pb−Free)",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "LM2904ADMR2G",
+        "",
+        "",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "LM2904ANG",
+        "",
+        "PDIP−8 (Pb−Free)",
+        "50 Units / Rail"
+      ],
+      [
+        "LM2904VDG",
+        "−40°Cto +125°C",
+        "SOIC−8 (Pb−Free)",
+        "98 Units / Rail"
+      ],
+      [
+        "LM2904VDR2G",
+        "",
+        "",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "LM2904VDMR2G",
+        "",
+        "Micro8 (Pb−Free)",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "LM2904VNG",
+        "",
+        "PDIP−8 (Pb−Free)",
+        "50 Units / Rail"
+      ],
+      [
+        "NCV2904DR2G",
+        "",
+        "SOIC−8 (Pb−Free)",
+        "2500 / Tape & Reel"
+      ],
+      [
+        "NCV2904DMR2G",
+        "",
+        "Micro8 (Pb−Free)",
+        "4000 / Tape & Reel"
+      ],
+      [
+        "NCV2904VDR2G",
+        "−40°Cto +150°C",
+        "SOIC−8 (Pb−Free)",
+        "2500 / Tape & Reel"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nORDERING INFORMATION\nDevice Operating Temperature Range Package Shipping†\nLM358ADR2G 2500 / Tape & Reel\nSOIC−8\nLM358DG 98 Units / Rail\n(Pb−Free)\nLM358DR2G 2500 / Tape & Reel\n0°Cto +70°C\nLM358DMR2G Micro8 4000 / Tape & Reel\n(Pb−Free)\nLM358NG PDIP−8 50 Units / Rail\n(Pb−Free)\nLM258DG 98 Units / Rail\nSOIC−8\nLM258DR2G (Pb−Free) 2500 / Tape & Reel\nLM258DMR2G −25°Cto +85°C Micro8 4000 / Tape & Reel\n(Pb−Free)\nLM258NG PDIP−8 50 Units / Rail\n(Pb−Free)\nLM2904DG 98 Units / Rail\nSOIC−8\nLM2904DR2G (Pb−Free) 2500 / Tape & Reel\nLM2904DMR2G Micro8 2500 / Tape & Reel\n(Pb−Free)\nLM2904NG PDIP−8 50 Units / Rail\n−40°Cto +105°C\n(Pb−Free)\nLM2904ADMG 4000 / Tape & Reel\nMicro8\nLM2904ADMR2G (Pb−Free) 4000 / Tape & Reel\nLM2904ANG PDIP−8 50 Units / Rail\n(Pb−Free)\nLM2904VDG 98 Units / Rail\nSOIC−8\nLM2904VDR2G (Pb−Free) 2500 / Tape & Reel\nLM2904VDMR2G Micro8 4000 / Tape & Reel\n(Pb−Free)\nLM2904VNG −40°Cto +125°C PDIP−8 50 Units / Rail\n(Pb−Free)\nNCV2904DR2G SOIC−8 2500 / Tape & Reel\n(Pb−Free)\nNCV2904DMR2G Micro8 4000 / Tape & Reel\n(Pb−Free)\nNCV2904VDR2G −40°Cto +150°C SOIC−8 2500 / Tape & Reel\n(Pb−Free)\n†For information on tape and reel specifications, including part orientation and tape sizes, please refer to our Tape and Reel Packaging\nSpecifications Brochure, BRD8011/D.\nhttp://onsemi.com\n10",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "LM358ADR2G",
+      "LM358DG",
+      "LM358DR2G",
+      "LM358DMR2G",
+      "Micro8",
+      "LM358NG",
+      "LM258DG",
+      "LM258DR2G",
+      "LM258DMR2G",
+      "LM258NG",
+      "LM2904DG",
+      "LM2904DR2G",
+      "LM2904DMR2G",
+      "LM2904NG",
+      "LM2904ADMG",
+      "LM2904ADMR2G",
+      "LM2904ANG",
+      "LM2904VDG",
+      "LM2904VDR2G",
+      "LM2904VDMR2G",
+      "LM2904VNG"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 10,
+    "table_index": 0,
+    "rows": [
+      [
+        "LMx58 ALYW (cid:2)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nMARKING DIAGRAMS\nPDIP−8 PDIP−8 PDIP−8\nN SUFFIX AN SUFFIX VN SUFFIX\nCASE 626 CASE 626 CASE 626\n8 8 8 8\nLMx58N LM2904N LM2904AN LM2904VN\nAWL AWL AWL AWL\nYYWWG YYWWG YYWWG YYWWG\n1 1 1 1\nSOIC−8 SOIC−8 SOIC−8\nD SUFFIX VD SUFFIX VD SUFFIX\nCASE 751 CASE 751 CASE 751\n8 8 8 8 8\n*\nLMx58 LM358 2904 2904V 2904V\nALYW ALYWA ALYW ALYW ALYWV\n(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1 1\nNCV2904V\nMicro8\nDMR2 SUFFIX\nCASE 846A\n8 8 8 8\n*\nx58 2904 904A 904V\nAYW(cid:2) AYW(cid:2) AYW(cid:2) AYW(cid:2)\n(cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1\nx = 2 or 3 *This diagram also applies to NCV2904\nA = Assembly Location\nWL, L = Wafer Lot\nYY, Y = Year\nWW, W = Work Week\nG = Pb−Free Package\n(cid:2) = Pb−Free Package − (Note: Microdot may be in either location)\nhttp://onsemi.com\n11",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "LMx58N",
+      "LM2904N",
+      "LM2904AN",
+      "LM2904VN",
+      "LMx58",
+      "Micro8",
+      "Microdot"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 10,
+    "table_index": 1,
+    "rows": [
+      [
+        "2904 ALYW (cid:2)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nMARKING DIAGRAMS\nPDIP−8 PDIP−8 PDIP−8\nN SUFFIX AN SUFFIX VN SUFFIX\nCASE 626 CASE 626 CASE 626\n8 8 8 8\nLMx58N LM2904N LM2904AN LM2904VN\nAWL AWL AWL AWL\nYYWWG YYWWG YYWWG YYWWG\n1 1 1 1\nSOIC−8 SOIC−8 SOIC−8\nD SUFFIX VD SUFFIX VD SUFFIX\nCASE 751 CASE 751 CASE 751\n8 8 8 8 8\n*\nLMx58 LM358 2904 2904V 2904V\nALYW ALYWA ALYW ALYW ALYWV\n(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1 1\nNCV2904V\nMicro8\nDMR2 SUFFIX\nCASE 846A\n8 8 8 8\n*\nx58 2904 904A 904V\nAYW(cid:2) AYW(cid:2) AYW(cid:2) AYW(cid:2)\n(cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1\nx = 2 or 3 *This diagram also applies to NCV2904\nA = Assembly Location\nWL, L = Wafer Lot\nYY, Y = Year\nWW, W = Work Week\nG = Pb−Free Package\n(cid:2) = Pb−Free Package − (Note: Microdot may be in either location)\nhttp://onsemi.com\n11",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "LMx58N",
+      "LM2904N",
+      "LM2904AN",
+      "LM2904VN",
+      "LMx58",
+      "Micro8",
+      "Microdot"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 10,
+    "table_index": 2,
+    "rows": [
+      [
+        "04V LYW (cid:2)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nMARKING DIAGRAMS\nPDIP−8 PDIP−8 PDIP−8\nN SUFFIX AN SUFFIX VN SUFFIX\nCASE 626 CASE 626 CASE 626\n8 8 8 8\nLMx58N LM2904N LM2904AN LM2904VN\nAWL AWL AWL AWL\nYYWWG YYWWG YYWWG YYWWG\n1 1 1 1\nSOIC−8 SOIC−8 SOIC−8\nD SUFFIX VD SUFFIX VD SUFFIX\nCASE 751 CASE 751 CASE 751\n8 8 8 8 8\n*\nLMx58 LM358 2904 2904V 2904V\nALYW ALYWA ALYW ALYW ALYWV\n(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1 1\nNCV2904V\nMicro8\nDMR2 SUFFIX\nCASE 846A\n8 8 8 8\n*\nx58 2904 904A 904V\nAYW(cid:2) AYW(cid:2) AYW(cid:2) AYW(cid:2)\n(cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1\nx = 2 or 3 *This diagram also applies to NCV2904\nA = Assembly Location\nWL, L = Wafer Lot\nYY, Y = Year\nWW, W = Work Week\nG = Pb−Free Package\n(cid:2) = Pb−Free Package − (Note: Microdot may be in either location)\nhttp://onsemi.com\n11",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "LMx58N",
+      "LM2904N",
+      "LM2904AN",
+      "LM2904VN",
+      "LMx58",
+      "Micro8",
+      "Microdot"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 10,
+    "table_index": 3,
+    "rows": [
+      [
+        "904V YWV (cid:2)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nMARKING DIAGRAMS\nPDIP−8 PDIP−8 PDIP−8\nN SUFFIX AN SUFFIX VN SUFFIX\nCASE 626 CASE 626 CASE 626\n8 8 8 8\nLMx58N LM2904N LM2904AN LM2904VN\nAWL AWL AWL AWL\nYYWWG YYWWG YYWWG YYWWG\n1 1 1 1\nSOIC−8 SOIC−8 SOIC−8\nD SUFFIX VD SUFFIX VD SUFFIX\nCASE 751 CASE 751 CASE 751\n8 8 8 8 8\n*\nLMx58 LM358 2904 2904V 2904V\nALYW ALYWA ALYW ALYW ALYWV\n(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1 1\nNCV2904V\nMicro8\nDMR2 SUFFIX\nCASE 846A\n8 8 8 8\n*\nx58 2904 904A 904V\nAYW(cid:2) AYW(cid:2) AYW(cid:2) AYW(cid:2)\n(cid:2) (cid:2) (cid:2) (cid:2)\n1 1 1 1\nx = 2 or 3 *This diagram also applies to NCV2904\nA = Assembly Location\nWL, L = Wafer Lot\nYY, Y = Year\nWW, W = Work Week\nG = Pb−Free Package\n(cid:2) = Pb−Free Package − (Note: Microdot may be in either location)\nhttp://onsemi.com\n11",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "LMx58N",
+      "LM2904N",
+      "LM2904AN",
+      "LM2904VN",
+      "LMx58",
+      "Micro8",
+      "Microdot"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 11,
+    "table_index": 0,
+    "rows": [
+      [
+        "8",
+        "5"
+      ],
+      [
+        "1",
+        "4"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nPDIP−8\nN, AN, VN SUFFIX\nCASE 626−05\nISSUE M\nNOTES:\nD A 1. DIMENSIONING AND TOLERANCING PER ASME\nY14.5M, 1994.\nD1 2. CONTROLLING DIMENSION: INCHES.\n3. DIMENSION E IS MEASURED WITH THE LEADS RE-\nE STRAINED PARALLEL AT WIDTH E2.\n4. DIMENSION E1 DOES NOT INCLUDE MOLD FLASH.\n8 5 5. ROUNDED CORNERS OPTIONAL.\nE1 INCHES MILLIMETERS\nDIM MIN NOM MAX MIN NOM MAX\nA −−−− −−−− 0.210 −−−− −−−− 5.33\n1 4\nA1 0.015 −−−− −−−− 0.38 −−−− −−−−\nb 0.014 0.018 0.022 0.35 0.46 0.56\nC 0.008 0.010 0.014 0.20 0.25 0.36\nNOTE 5 F c D 0.355 0.365 0.400 9.02 9.27 10.02\nD1 0.005 −−−− −−−− 0.13 −−−− −−−−\nTOP VIEW E2 E 0.300 0.310 0.325 7.62 7.87 8.26\nE1 0.240 0.250 0.280 6.10 6.35 7.11\nEND VIEW E2 0.300 BSC 7.62 BSC\nNOTE 3 E3 −−−− −−−− 0.430 −−−− −−−− 10.92\ne 0.100 BSC 2.54 BSC\ne/2 A L 0.115 0.130 0.150 2.92 3.30 3.81\nL\nA1\nC SEATING\nPLANE\nE3\ne\n8Xb\n0.010 M C A\nSIDE VIEW END VIEW\nhttp://onsemi.com\n12",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 11,
+    "table_index": 2,
+    "rows": [
+      [
+        "DIM",
+        "INCHES",
+        "",
+        "",
+        "MILLIMETERS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "MIN",
+        "NOM",
+        "MAX",
+        "MIN",
+        "NOM",
+        "MAX"
+      ],
+      [
+        "A",
+        "−−−−",
+        "−−−−",
+        "0.210",
+        "−−−−",
+        "−−−−",
+        "5.33"
+      ],
+      [
+        "A1",
+        "0.015",
+        "−−−−",
+        "−−−−",
+        "0.38",
+        "−−−−",
+        "−−−−"
+      ],
+      [
+        "b",
+        "0.014",
+        "0.018",
+        "0.022",
+        "0.35",
+        "0.46",
+        "0.56"
+      ],
+      [
+        "C",
+        "0.008",
+        "0.010",
+        "0.014",
+        "0.20",
+        "0.25",
+        "0.36"
+      ],
+      [
+        "D",
+        "0.355",
+        "0.365",
+        "0.400",
+        "9.02",
+        "9.27",
+        "10.02"
+      ],
+      [
+        "D1",
+        "0.005",
+        "−−−−",
+        "−−−−",
+        "0.13",
+        "−−−−",
+        "−−−−"
+      ],
+      [
+        "E",
+        "0.300",
+        "0.310",
+        "0.325",
+        "7.62",
+        "7.87",
+        "8.26"
+      ],
+      [
+        "E1",
+        "0.240",
+        "0.250",
+        "0.280",
+        "6.10",
+        "6.35",
+        "7.11"
+      ],
+      [
+        "E2",
+        "0.300 BSC",
+        "",
+        "",
+        "7.62 BSC",
+        "",
+        ""
+      ],
+      [
+        "E3",
+        "−−−−",
+        "−−−−",
+        "0.430",
+        "−−−−",
+        "−−−−",
+        "10.92"
+      ],
+      [
+        "e",
+        "0.100 BSC",
+        "",
+        "",
+        "2.54 BSC",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nPDIP−8\nN, AN, VN SUFFIX\nCASE 626−05\nISSUE M\nNOTES:\nD A 1. DIMENSIONING AND TOLERANCING PER ASME\nY14.5M, 1994.\nD1 2. CONTROLLING DIMENSION: INCHES.\n3. DIMENSION E IS MEASURED WITH THE LEADS RE-\nE STRAINED PARALLEL AT WIDTH E2.\n4. DIMENSION E1 DOES NOT INCLUDE MOLD FLASH.\n8 5 5. ROUNDED CORNERS OPTIONAL.\nE1 INCHES MILLIMETERS\nDIM MIN NOM MAX MIN NOM MAX\nA −−−− −−−− 0.210 −−−− −−−− 5.33\n1 4\nA1 0.015 −−−− −−−− 0.38 −−−− −−−−\nb 0.014 0.018 0.022 0.35 0.46 0.56\nC 0.008 0.010 0.014 0.20 0.25 0.36\nNOTE 5 F c D 0.355 0.365 0.400 9.02 9.27 10.02\nD1 0.005 −−−− −−−− 0.13 −−−− −−−−\nTOP VIEW E2 E 0.300 0.310 0.325 7.62 7.87 8.26\nE1 0.240 0.250 0.280 6.10 6.35 7.11\nEND VIEW E2 0.300 BSC 7.62 BSC\nNOTE 3 E3 −−−− −−−− 0.430 −−−− −−−− 10.92\ne 0.100 BSC 2.54 BSC\ne/2 A L 0.115 0.130 0.150 2.92 3.30 3.81\nL\nA1\nC SEATING\nPLANE\nE3\ne\n8Xb\n0.010 M C A\nSIDE VIEW END VIEW\nhttp://onsemi.com\n12",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 11,
+    "table_index": 5,
+    "rows": [
+      [
+        "C",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nPDIP−8\nN, AN, VN SUFFIX\nCASE 626−05\nISSUE M\nNOTES:\nD A 1. DIMENSIONING AND TOLERANCING PER ASME\nY14.5M, 1994.\nD1 2. CONTROLLING DIMENSION: INCHES.\n3. DIMENSION E IS MEASURED WITH THE LEADS RE-\nE STRAINED PARALLEL AT WIDTH E2.\n4. DIMENSION E1 DOES NOT INCLUDE MOLD FLASH.\n8 5 5. ROUNDED CORNERS OPTIONAL.\nE1 INCHES MILLIMETERS\nDIM MIN NOM MAX MIN NOM MAX\nA −−−− −−−− 0.210 −−−− −−−− 5.33\n1 4\nA1 0.015 −−−− −−−− 0.38 −−−− −−−−\nb 0.014 0.018 0.022 0.35 0.46 0.56\nC 0.008 0.010 0.014 0.20 0.25 0.36\nNOTE 5 F c D 0.355 0.365 0.400 9.02 9.27 10.02\nD1 0.005 −−−− −−−− 0.13 −−−− −−−−\nTOP VIEW E2 E 0.300 0.310 0.325 7.62 7.87 8.26\nE1 0.240 0.250 0.280 6.10 6.35 7.11\nEND VIEW E2 0.300 BSC 7.62 BSC\nNOTE 3 E3 −−−− −−−− 0.430 −−−− −−−− 10.92\ne 0.100 BSC 2.54 BSC\ne/2 A L 0.115 0.130 0.150 2.92 3.30 3.81\nL\nA1\nC SEATING\nPLANE\nE3\ne\n8Xb\n0.010 M C A\nSIDE VIEW END VIEW\nhttp://onsemi.com\n12",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 11,
+    "table_index": 6,
+    "rows": [
+      [
+        "",
+        "",
+        "0.010 M",
+        "C",
+        "A"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nPDIP−8\nN, AN, VN SUFFIX\nCASE 626−05\nISSUE M\nNOTES:\nD A 1. DIMENSIONING AND TOLERANCING PER ASME\nY14.5M, 1994.\nD1 2. CONTROLLING DIMENSION: INCHES.\n3. DIMENSION E IS MEASURED WITH THE LEADS RE-\nE STRAINED PARALLEL AT WIDTH E2.\n4. DIMENSION E1 DOES NOT INCLUDE MOLD FLASH.\n8 5 5. ROUNDED CORNERS OPTIONAL.\nE1 INCHES MILLIMETERS\nDIM MIN NOM MAX MIN NOM MAX\nA −−−− −−−− 0.210 −−−− −−−− 5.33\n1 4\nA1 0.015 −−−− −−−− 0.38 −−−− −−−−\nb 0.014 0.018 0.022 0.35 0.46 0.56\nC 0.008 0.010 0.014 0.20 0.25 0.36\nNOTE 5 F c D 0.355 0.365 0.400 9.02 9.27 10.02\nD1 0.005 −−−− −−−− 0.13 −−−− −−−−\nTOP VIEW E2 E 0.300 0.310 0.325 7.62 7.87 8.26\nE1 0.240 0.250 0.280 6.10 6.35 7.11\nEND VIEW E2 0.300 BSC 7.62 BSC\nNOTE 3 E3 −−−− −−−− 0.430 −−−− −−−− 10.92\ne 0.100 BSC 2.54 BSC\ne/2 A L 0.115 0.130 0.150 2.92 3.30 3.81\nL\nA1\nC SEATING\nPLANE\nE3\ne\n8Xb\n0.010 M C A\nSIDE VIEW END VIEW\nhttp://onsemi.com\n12",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 0,
+    "rows": [
+      [
+        "8 5 1",
+        ""
+      ],
+      [
+        "4",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "0.25 (0.010) M",
+        "Y M"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 2,
+    "rows": [
+      [
+        "DIM",
+        "MILLIMETERS",
+        "",
+        "INCHES",
+        ""
+      ],
+      [
+        "",
+        "MIN",
+        "MAX",
+        "MIN",
+        "MAX"
+      ],
+      [
+        "A",
+        "4.80",
+        "5.00",
+        "0.189",
+        "0.197"
+      ],
+      [
+        "B",
+        "3.80",
+        "4.00",
+        "0.150",
+        "0.157"
+      ],
+      [
+        "C",
+        "1.35",
+        "1.75",
+        "0.053",
+        "0.069"
+      ],
+      [
+        "D",
+        "0.33",
+        "0.51",
+        "0.013",
+        "0.020"
+      ],
+      [
+        "G",
+        "1.27 BSC",
+        "",
+        "0.050 BSC",
+        ""
+      ],
+      [
+        "H",
+        "0.10",
+        "0.25",
+        "0.004",
+        "0.010"
+      ],
+      [
+        "J",
+        "0.19",
+        "0.25",
+        "0.007",
+        "0.010"
+      ],
+      [
+        "K M",
+        "0.40 0 (cid:3)",
+        "1.27 8 (cid:3)",
+        "0.016 0 (cid:3)",
+        "0.050 8 (cid:3)"
+      ],
+      [
+        "N",
+        "0.25",
+        "0.50",
+        "0.010",
+        "0.020"
+      ],
+      [
+        "S",
+        "5.80",
+        "6.20",
+        "0.228",
+        "0.244"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 4,
+    "rows": [
+      [
+        "",
+        "0.10 (0.004)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 5,
+    "rows": [
+      [
+        "",
+        "0.25 (0.010)M",
+        "Z",
+        "Y S",
+        "X S"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 7,
+    "rows": [
+      [
+        "7 0.2",
+        ".0 75"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 12,
+    "table_index": 8,
+    "rows": [
+      [
+        "4 0.",
+        ".0"
+      ],
+      [
+        "",
+        "155"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nSOIC−8 NB\nCASE 751−07\nISSUE AK\nNOTES:\n−X− 1. DIMENSIONING AND TOLERANCING PER\nANSI Y14.5M, 1982.\nA 2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A AND B DO NOT INCLUDE\nMOLD PROTRUSION.\n4. MAXIMUM MOLD PROTRUSION 0.15 (0.006)\n8 5 PER SIDE.\n5. DIMENSION D DOES NOT INCLUDE DAMBAR\nB S 0.25 (0.010) M Y M PROTRUSION. ALLOWABLE DAMBAR\nPROTRUSION SHALL BE 0.127 (0.005) TOTAL\n1 IN EXCESS OF THE D DIMENSION AT\n−Y− 4 K 6. 7 M 5 A 1 X − I 0 M 1 U T M H R M U A T 7 E 51 R − IA 0 L 6 C AR O E N D O I B T S IO O N L . ETE. NEW\nSTANDARD IS 751−07.\nG MILLIMETERS INCHES\nDIM MIN MAX MIN MAX\nA 4.80 5.00 0.189 0.197\nC NX 45(cid:3) B 3.80 4.00 0.150 0.157\nSEATING C 1.35 1.75 0.053 0.069\nPLANE D 0.33 0.51 0.013 0.020\n−Z− G 1.27 BSC 0.050 BSC\nH 0.10 0.25 0.004 0.010\n0.10 (0.004)\nJ 0.19 0.25 0.007 0.010\nH D M J K 0.40 1.27 0.016 0.050\nM 0 (cid:3) 8 (cid:3) 0 (cid:3) 8 (cid:3)\nN 0.25 0.50 0.010 0.020\n0.25 (0.010)M Z Y S X S S 5.80 6.20 0.228 0.244\nSOLDERING FOOTPRINT*\n1.52\n0.060\n7.0 4.0\n0.275 0.155\n0.6 1.270\n0.024 0.050\n(cid:4) (cid:5)\nmm\nSCALE 6:1\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nhttp://onsemi.com\n13",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "MAXIMUM",
+      "additional"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 13,
+    "table_index": 3,
+    "rows": [
+      [
+        "DIM",
+        "MILLIMETERS",
+        "",
+        "",
+        "INCHES",
+        "",
+        ""
+      ],
+      [
+        "",
+        "MIN",
+        "NOM",
+        "MAX",
+        "MIN",
+        "NOM",
+        "MAX"
+      ],
+      [
+        "A",
+        "−−",
+        "−−",
+        "1.10",
+        "−−",
+        "−−",
+        "0.043"
+      ],
+      [
+        "A1",
+        "0.05",
+        "0.08",
+        "0.15",
+        "0.002",
+        "0.003",
+        "0.006"
+      ],
+      [
+        "b",
+        "0.25",
+        "0.33",
+        "0.40",
+        "0.010",
+        "0.013",
+        "0.016"
+      ],
+      [
+        "c",
+        "0.13",
+        "0.18",
+        "0.23",
+        "0.005",
+        "0.007",
+        "0.009"
+      ],
+      [
+        "D",
+        "2.90",
+        "3.00",
+        "3.10",
+        "0.114",
+        "0.118",
+        "0.122"
+      ],
+      [
+        "E",
+        "2.90",
+        "3.00",
+        "3.10",
+        "0.114",
+        "0.118",
+        "0.122"
+      ],
+      [
+        "e",
+        "0.65 BSC",
+        "",
+        "",
+        "0.026 BSC",
+        "",
+        ""
+      ],
+      [
+        "L",
+        "0.40",
+        "0.55",
+        "0.70",
+        "0.016",
+        "0.021",
+        "0.028"
+      ],
+      [
+        "HE",
+        "4.75",
+        "4.90",
+        "5.05",
+        "0.187",
+        "0.193",
+        "0.199"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nMicro8(cid:4)\nCASE 846A−02\nISSUE H\nDD NOTES:\n1. DIMENSIONING AND TOLERANCING PER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A DOES NOT INCLUDE MOLD FLASH, PROTRUSIONS OR GATE\nBURRS. MOLD FLASH, PROTRUSIONS OR GATE BURRS SHALL NOT EXCEED\n0.15 (0.006) PER SIDE.\nHE E 4. DIMENSION B DOES NOT INCLUDE INTERLEAD FLASH OR PROTRUSION.\nINTERLEAD FLASH OR PROTRUSION SHALL NOT EXCEED 0.25 (0.010) PER SIDE.\n5. 846A-01 OBSOLETE, NEW STANDARD 846A-02.\nMILLIMETERS INCHES\nDIM MIN NOM MAX MIN NOM MAX\nPIN 1 ID e A −− −− 1.10 −− −− 0.043\nb8 PL A1 0.05 0.08 0.15 0.002 0.003 0.006\nb 0.25 0.33 0.40 0.010 0.013 0.016\n0.08 (0.003) M T B S A S\nc 0.13 0.18 0.23 0.005 0.007 0.009\nD 2.90 3.00 3.10 0.114 0.118 0.122\nE 2.90 3.00 3.10 0.114 0.118 0.122\ne 0.65 BSC 0.026 BSC\nSEATING L 0.40 0.55 0.70 0.016 0.021 0.028\n−T− PLANE HE 4.75 4.90 5.05 0.187 0.193 0.199\n0.038 (0.0015) A\nA1 c L\nSOLDERING FOOTPRINT*\n1.04 0.38\n8X 0.041 0.015 8X\n3.20 4.24 5.28\n0.126 0.167 0.208\n0.65 (cid:4) (cid:5)\n6X 0.0256 SCALE 8:1 mm\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nMicro8 is a trademark of International Rectifier.\nON Semiconductor and are registered trademarks of Semiconductor Components Industries, LLC (SCILLC). SCILLC reserves the right to make changes without further notice\nto any products herein. SCILLC makes no warranty, representation or guarantee regarding the suitability of its products for any particular purpose, nor does SCILLC assume any liability\narising out of the application or use of any product or circuit, and specifically disclaims any and all liability, including without limitation special, consequential or incidental damages.\n“Typical” parameters which may be provided in SCILLC data sheets and/or specifications can and do vary in different applications and actual performance may vary over time. All\noperating parameters, including “Typicals” must be validated for each customer application by customer’s technical experts. SCILLC does not convey any license under its patent rights\nnor the rights of others. SCILLC products are not designed, intended, or authorized for use as components in systems intended for surgical implant into the body, or other applications\nintended to support or sustain life, or for any other application in which the failure of the SCILLC product could create a situation where personal injury or death may occur. Should\nBuyer purchase or use SCILLC products for any such unintended or unauthorized application, Buyer shall indemnify and hold SCILLC and its officers, employees, subsidiaries, affiliates,\nand distributors harmless against all claims, costs, damages, and expenses, and reasonable attorney fees arising out of, directly or indirectly, any claim of personal injury or death\nassociated with such unintended or unauthorized use, even if such claim alleges that SCILLC was negligent regarding the design or manufacture of the part. SCILLC is an Equal\nOpportunity/Affirmative Action Employer. This literature is subject to all applicable copyright laws and is not for resale in any manner.\nPUBLICATION ORDERING INFORMATION\nLITERATURE FULFILLMENT: N. American Technical Support: 800−282−9855 Toll Free ON Semiconductor Website: www.onsemi.com\nLiterature Distribution Center for ON Semiconductor USA/Canada\nP.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit\nPhone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910\nFax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your local\nEmail: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative\nhttp://onsemi.com LM358/D\n14",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Micro8",
+      "additional",
+      "negligent"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 13,
+    "table_index": 4,
+    "rows": [
+      [
+        "−T−",
+        ""
+      ],
+      [
+        "",
+        "0.038 (0.0015)"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nMicro8(cid:4)\nCASE 846A−02\nISSUE H\nDD NOTES:\n1. DIMENSIONING AND TOLERANCING PER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A DOES NOT INCLUDE MOLD FLASH, PROTRUSIONS OR GATE\nBURRS. MOLD FLASH, PROTRUSIONS OR GATE BURRS SHALL NOT EXCEED\n0.15 (0.006) PER SIDE.\nHE E 4. DIMENSION B DOES NOT INCLUDE INTERLEAD FLASH OR PROTRUSION.\nINTERLEAD FLASH OR PROTRUSION SHALL NOT EXCEED 0.25 (0.010) PER SIDE.\n5. 846A-01 OBSOLETE, NEW STANDARD 846A-02.\nMILLIMETERS INCHES\nDIM MIN NOM MAX MIN NOM MAX\nPIN 1 ID e A −− −− 1.10 −− −− 0.043\nb8 PL A1 0.05 0.08 0.15 0.002 0.003 0.006\nb 0.25 0.33 0.40 0.010 0.013 0.016\n0.08 (0.003) M T B S A S\nc 0.13 0.18 0.23 0.005 0.007 0.009\nD 2.90 3.00 3.10 0.114 0.118 0.122\nE 2.90 3.00 3.10 0.114 0.118 0.122\ne 0.65 BSC 0.026 BSC\nSEATING L 0.40 0.55 0.70 0.016 0.021 0.028\n−T− PLANE HE 4.75 4.90 5.05 0.187 0.193 0.199\n0.038 (0.0015) A\nA1 c L\nSOLDERING FOOTPRINT*\n1.04 0.38\n8X 0.041 0.015 8X\n3.20 4.24 5.28\n0.126 0.167 0.208\n0.65 (cid:4) (cid:5)\n6X 0.0256 SCALE 8:1 mm\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nMicro8 is a trademark of International Rectifier.\nON Semiconductor and are registered trademarks of Semiconductor Components Industries, LLC (SCILLC). SCILLC reserves the right to make changes without further notice\nto any products herein. SCILLC makes no warranty, representation or guarantee regarding the suitability of its products for any particular purpose, nor does SCILLC assume any liability\narising out of the application or use of any product or circuit, and specifically disclaims any and all liability, including without limitation special, consequential or incidental damages.\n“Typical” parameters which may be provided in SCILLC data sheets and/or specifications can and do vary in different applications and actual performance may vary over time. All\noperating parameters, including “Typicals” must be validated for each customer application by customer’s technical experts. SCILLC does not convey any license under its patent rights\nnor the rights of others. SCILLC products are not designed, intended, or authorized for use as components in systems intended for surgical implant into the body, or other applications\nintended to support or sustain life, or for any other application in which the failure of the SCILLC product could create a situation where personal injury or death may occur. Should\nBuyer purchase or use SCILLC products for any such unintended or unauthorized application, Buyer shall indemnify and hold SCILLC and its officers, employees, subsidiaries, affiliates,\nand distributors harmless against all claims, costs, damages, and expenses, and reasonable attorney fees arising out of, directly or indirectly, any claim of personal injury or death\nassociated with such unintended or unauthorized use, even if such claim alleges that SCILLC was negligent regarding the design or manufacture of the part. SCILLC is an Equal\nOpportunity/Affirmative Action Employer. This literature is subject to all applicable copyright laws and is not for resale in any manner.\nPUBLICATION ORDERING INFORMATION\nLITERATURE FULFILLMENT: N. American Technical Support: 800−282−9855 Toll Free ON Semiconductor Website: www.onsemi.com\nLiterature Distribution Center for ON Semiconductor USA/Canada\nP.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit\nPhone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910\nFax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your local\nEmail: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative\nhttp://onsemi.com LM358/D\n14",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Micro8",
+      "additional",
+      "negligent"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 13,
+    "table_index": 6,
+    "rows": [
+      [
+        "0.38",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "0.015",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nMicro8(cid:4)\nCASE 846A−02\nISSUE H\nDD NOTES:\n1. DIMENSIONING AND TOLERANCING PER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A DOES NOT INCLUDE MOLD FLASH, PROTRUSIONS OR GATE\nBURRS. MOLD FLASH, PROTRUSIONS OR GATE BURRS SHALL NOT EXCEED\n0.15 (0.006) PER SIDE.\nHE E 4. DIMENSION B DOES NOT INCLUDE INTERLEAD FLASH OR PROTRUSION.\nINTERLEAD FLASH OR PROTRUSION SHALL NOT EXCEED 0.25 (0.010) PER SIDE.\n5. 846A-01 OBSOLETE, NEW STANDARD 846A-02.\nMILLIMETERS INCHES\nDIM MIN NOM MAX MIN NOM MAX\nPIN 1 ID e A −− −− 1.10 −− −− 0.043\nb8 PL A1 0.05 0.08 0.15 0.002 0.003 0.006\nb 0.25 0.33 0.40 0.010 0.013 0.016\n0.08 (0.003) M T B S A S\nc 0.13 0.18 0.23 0.005 0.007 0.009\nD 2.90 3.00 3.10 0.114 0.118 0.122\nE 2.90 3.00 3.10 0.114 0.118 0.122\ne 0.65 BSC 0.026 BSC\nSEATING L 0.40 0.55 0.70 0.016 0.021 0.028\n−T− PLANE HE 4.75 4.90 5.05 0.187 0.193 0.199\n0.038 (0.0015) A\nA1 c L\nSOLDERING FOOTPRINT*\n1.04 0.38\n8X 0.041 0.015 8X\n3.20 4.24 5.28\n0.126 0.167 0.208\n0.65 (cid:4) (cid:5)\n6X 0.0256 SCALE 8:1 mm\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nMicro8 is a trademark of International Rectifier.\nON Semiconductor and are registered trademarks of Semiconductor Components Industries, LLC (SCILLC). SCILLC reserves the right to make changes without further notice\nto any products herein. SCILLC makes no warranty, representation or guarantee regarding the suitability of its products for any particular purpose, nor does SCILLC assume any liability\narising out of the application or use of any product or circuit, and specifically disclaims any and all liability, including without limitation special, consequential or incidental damages.\n“Typical” parameters which may be provided in SCILLC data sheets and/or specifications can and do vary in different applications and actual performance may vary over time. All\noperating parameters, including “Typicals” must be validated for each customer application by customer’s technical experts. SCILLC does not convey any license under its patent rights\nnor the rights of others. SCILLC products are not designed, intended, or authorized for use as components in systems intended for surgical implant into the body, or other applications\nintended to support or sustain life, or for any other application in which the failure of the SCILLC product could create a situation where personal injury or death may occur. Should\nBuyer purchase or use SCILLC products for any such unintended or unauthorized application, Buyer shall indemnify and hold SCILLC and its officers, employees, subsidiaries, affiliates,\nand distributors harmless against all claims, costs, damages, and expenses, and reasonable attorney fees arising out of, directly or indirectly, any claim of personal injury or death\nassociated with such unintended or unauthorized use, even if such claim alleges that SCILLC was negligent regarding the design or manufacture of the part. SCILLC is an Equal\nOpportunity/Affirmative Action Employer. This literature is subject to all applicable copyright laws and is not for resale in any manner.\nPUBLICATION ORDERING INFORMATION\nLITERATURE FULFILLMENT: N. American Technical Support: 800−282−9855 Toll Free ON Semiconductor Website: www.onsemi.com\nLiterature Distribution Center for ON Semiconductor USA/Canada\nP.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit\nPhone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910\nFax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your local\nEmail: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative\nhttp://onsemi.com LM358/D\n14",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Micro8",
+      "additional",
+      "negligent"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 13,
+    "table_index": 9,
+    "rows": [
+      [
+        "5.28"
+      ],
+      [
+        "0.208"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nMicro8(cid:4)\nCASE 846A−02\nISSUE H\nDD NOTES:\n1. DIMENSIONING AND TOLERANCING PER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A DOES NOT INCLUDE MOLD FLASH, PROTRUSIONS OR GATE\nBURRS. MOLD FLASH, PROTRUSIONS OR GATE BURRS SHALL NOT EXCEED\n0.15 (0.006) PER SIDE.\nHE E 4. DIMENSION B DOES NOT INCLUDE INTERLEAD FLASH OR PROTRUSION.\nINTERLEAD FLASH OR PROTRUSION SHALL NOT EXCEED 0.25 (0.010) PER SIDE.\n5. 846A-01 OBSOLETE, NEW STANDARD 846A-02.\nMILLIMETERS INCHES\nDIM MIN NOM MAX MIN NOM MAX\nPIN 1 ID e A −− −− 1.10 −− −− 0.043\nb8 PL A1 0.05 0.08 0.15 0.002 0.003 0.006\nb 0.25 0.33 0.40 0.010 0.013 0.016\n0.08 (0.003) M T B S A S\nc 0.13 0.18 0.23 0.005 0.007 0.009\nD 2.90 3.00 3.10 0.114 0.118 0.122\nE 2.90 3.00 3.10 0.114 0.118 0.122\ne 0.65 BSC 0.026 BSC\nSEATING L 0.40 0.55 0.70 0.016 0.021 0.028\n−T− PLANE HE 4.75 4.90 5.05 0.187 0.193 0.199\n0.038 (0.0015) A\nA1 c L\nSOLDERING FOOTPRINT*\n1.04 0.38\n8X 0.041 0.015 8X\n3.20 4.24 5.28\n0.126 0.167 0.208\n0.65 (cid:4) (cid:5)\n6X 0.0256 SCALE 8:1 mm\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nMicro8 is a trademark of International Rectifier.\nON Semiconductor and are registered trademarks of Semiconductor Components Industries, LLC (SCILLC). SCILLC reserves the right to make changes without further notice\nto any products herein. SCILLC makes no warranty, representation or guarantee regarding the suitability of its products for any particular purpose, nor does SCILLC assume any liability\narising out of the application or use of any product or circuit, and specifically disclaims any and all liability, including without limitation special, consequential or incidental damages.\n“Typical” parameters which may be provided in SCILLC data sheets and/or specifications can and do vary in different applications and actual performance may vary over time. All\noperating parameters, including “Typicals” must be validated for each customer application by customer’s technical experts. SCILLC does not convey any license under its patent rights\nnor the rights of others. SCILLC products are not designed, intended, or authorized for use as components in systems intended for surgical implant into the body, or other applications\nintended to support or sustain life, or for any other application in which the failure of the SCILLC product could create a situation where personal injury or death may occur. Should\nBuyer purchase or use SCILLC products for any such unintended or unauthorized application, Buyer shall indemnify and hold SCILLC and its officers, employees, subsidiaries, affiliates,\nand distributors harmless against all claims, costs, damages, and expenses, and reasonable attorney fees arising out of, directly or indirectly, any claim of personal injury or death\nassociated with such unintended or unauthorized use, even if such claim alleges that SCILLC was negligent regarding the design or manufacture of the part. SCILLC is an Equal\nOpportunity/Affirmative Action Employer. This literature is subject to all applicable copyright laws and is not for resale in any manner.\nPUBLICATION ORDERING INFORMATION\nLITERATURE FULFILLMENT: N. American Technical Support: 800−282−9855 Toll Free ON Semiconductor Website: www.onsemi.com\nLiterature Distribution Center for ON Semiconductor USA/Canada\nP.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit\nPhone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910\nFax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your local\nEmail: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative\nhttp://onsemi.com LM358/D\n14",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Micro8",
+      "additional",
+      "negligent"
+    ]
+  },
+  {
+    "source": "data\\datasheets\\LM258.PDF",
+    "page": 13,
+    "table_index": 14,
+    "rows": [
+      [
+        "Literature Distribution Center for ON Semiconductor USA/Canada P.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit Phone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910 Fax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your loca Email: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative"
+      ],
+      [
+        "http://onsemi.com LM358/D 14"
+      ]
+    ],
+    "page_text": "LM258, LM358, LM358A, LM2904, LM2904A, LM2904V, NCV2904, NCV2904V\nPACKAGE DIMENSIONS\nMicro8(cid:4)\nCASE 846A−02\nISSUE H\nDD NOTES:\n1. DIMENSIONING AND TOLERANCING PER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETER.\n3. DIMENSION A DOES NOT INCLUDE MOLD FLASH, PROTRUSIONS OR GATE\nBURRS. MOLD FLASH, PROTRUSIONS OR GATE BURRS SHALL NOT EXCEED\n0.15 (0.006) PER SIDE.\nHE E 4. DIMENSION B DOES NOT INCLUDE INTERLEAD FLASH OR PROTRUSION.\nINTERLEAD FLASH OR PROTRUSION SHALL NOT EXCEED 0.25 (0.010) PER SIDE.\n5. 846A-01 OBSOLETE, NEW STANDARD 846A-02.\nMILLIMETERS INCHES\nDIM MIN NOM MAX MIN NOM MAX\nPIN 1 ID e A −− −− 1.10 −− −− 0.043\nb8 PL A1 0.05 0.08 0.15 0.002 0.003 0.006\nb 0.25 0.33 0.40 0.010 0.013 0.016\n0.08 (0.003) M T B S A S\nc 0.13 0.18 0.23 0.005 0.007 0.009\nD 2.90 3.00 3.10 0.114 0.118 0.122\nE 2.90 3.00 3.10 0.114 0.118 0.122\ne 0.65 BSC 0.026 BSC\nSEATING L 0.40 0.55 0.70 0.016 0.021 0.028\n−T− PLANE HE 4.75 4.90 5.05 0.187 0.193 0.199\n0.038 (0.0015) A\nA1 c L\nSOLDERING FOOTPRINT*\n1.04 0.38\n8X 0.041 0.015 8X\n3.20 4.24 5.28\n0.126 0.167 0.208\n0.65 (cid:4) (cid:5)\n6X 0.0256 SCALE 8:1 mm\ninches\n*For additional information on our Pb−Free strategy and soldering\ndetails, please download the ON Semiconductor Soldering and\nMounting Techniques Reference Manual, SOLDERRM/D.\nMicro8 is a trademark of International Rectifier.\nON Semiconductor and are registered trademarks of Semiconductor Components Industries, LLC (SCILLC). SCILLC reserves the right to make changes without further notice\nto any products herein. SCILLC makes no warranty, representation or guarantee regarding the suitability of its products for any particular purpose, nor does SCILLC assume any liability\narising out of the application or use of any product or circuit, and specifically disclaims any and all liability, including without limitation special, consequential or incidental damages.\n“Typical” parameters which may be provided in SCILLC data sheets and/or specifications can and do vary in different applications and actual performance may vary over time. All\noperating parameters, including “Typicals” must be validated for each customer application by customer’s technical experts. SCILLC does not convey any license under its patent rights\nnor the rights of others. SCILLC products are not designed, intended, or authorized for use as components in systems intended for surgical implant into the body, or other applications\nintended to support or sustain life, or for any other application in which the failure of the SCILLC product could create a situation where personal injury or death may occur. Should\nBuyer purchase or use SCILLC products for any such unintended or unauthorized application, Buyer shall indemnify and hold SCILLC and its officers, employees, subsidiaries, affiliates,\nand distributors harmless against all claims, costs, damages, and expenses, and reasonable attorney fees arising out of, directly or indirectly, any claim of personal injury or death\nassociated with such unintended or unauthorized use, even if such claim alleges that SCILLC was negligent regarding the design or manufacture of the part. SCILLC is an Equal\nOpportunity/Affirmative Action Employer. This literature is subject to all applicable copyright laws and is not for resale in any manner.\nPUBLICATION ORDERING INFORMATION\nLITERATURE FULFILLMENT: N. American Technical Support: 800−282−9855 Toll Free ON Semiconductor Website: www.onsemi.com\nLiterature Distribution Center for ON Semiconductor USA/Canada\nP.O. Box 5163, Denver, Colorado 80217 USA Europe, Middle East and Africa Technical Support: Order Literature: http://www.onsemi.com/orderlit\nPhone: 303−675−2175 or 800−344−3860 Toll Free USA/Canada Phone: 421 33 790 2910\nFax: 303−675−2176 or 800−344−3867 Toll Free USA/Canada Japan Customer Focus Center For additional information, please contact your local\nEmail: orderlit@onsemi.com Phone: 81−3−5817−1050 Sales Representative\nhttp://onsemi.com LM358/D\n14",
+    "component_hints": [
+      "LM258",
+      "LM358",
+      "LM358A",
+      "LM2904",
+      "LM2904A",
+      "LM2904V",
+      "Micro8",
+      "additional",
+      "negligent"
+    ]
+  }
+]
