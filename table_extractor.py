@@ -18,7 +18,10 @@ TABLE_STORE_PATH = "extracted_tables.json"
 # Conservative part-number patterns. These are intentionally limited to common
 # electronics naming families rather than treating every uppercase token as a part.
 _PART_PATTERNS = (
-    r"\b(?:LM|LT|LTC|TL|OPA|MCP|INA|ADS|MAX|TPS|NCP|SN|AD|NE|MC|MIC|STM32|ATmega|ESP32)[A-Za-z0-9_-]{2,}\b",
+    r"\b(?:ESP32(?:-[A-Z0-9]+){1,5}|"
+    r"(?:AP|LM|LT|LTC|TL|OPA|MCP|INA|ADS|MAX|TPS|AMS|NCP|SN|AD|NE|MC|MIC|STM32|ATmega|BQ|DRV|TUSB|CH340|CP210|"
+    r"BME|BMP|MPU|ICM|LSM|LIS|BMI|NRF|RP|GD32|CH32|W25Q|MX25|GD25|PCF|ADXL|SHT|DS18B|USBLC|XC6|XC62)[A-Z0-9]*"
+    r"(?:-[A-Z0-9.]+)*)\b",
 )
 
 
@@ -60,6 +63,12 @@ def extract_pdf_tables(data_path: str) -> list[dict]:
     for path in Path(data_path).rglob("*.pdf"):
         try:
             with pdfplumber.open(path) as pdf:
+                # Tag every extracted table with identifiers found across the source
+                # PDF, because tables on later pages often omit the part number.
+                page_texts = [page.extract_text() or "" for page in pdf.pages]
+                whole_doc_text = "\n".join(page_texts)
+                document_parts = _find_part_numbers(whole_doc_text)
+                primary_parts = _find_part_numbers("\n".join(page_texts[:3])[:18000])
                 for page_number, page in enumerate(pdf.pages):
                     page_text = page.extract_text() or ""
                     page_parts = _find_part_numbers(page_text)
@@ -85,6 +94,8 @@ def extract_pdf_tables(data_path: str) -> list[dict]:
                                 "rows": nonempty,
                                 "page_text": page_text,
                                 "component_hints": page_parts,
+                                "document_part_numbers": "|".join(document_parts),
+                                "document_primary_part_numbers": "|".join(primary_parts),
                             }
                         )
         except Exception as exc:
@@ -117,6 +128,9 @@ def table_records_to_documents(records: list[dict]) -> list[Document]:
                     "table_index": record["table_index"],
                     "content_type": "table",
                     "component_hints": ", ".join(record.get("component_hints", [])),
+                    "document_part_numbers": record.get("document_part_numbers", ""),
+                    "document_primary_part_numbers": record.get("document_primary_part_numbers", ""),
+                    "document_name": Path(record["source"]).name,
                 },
             )
         )
